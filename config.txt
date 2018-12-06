@@ -1,6 +1,6 @@
-token=NTAyOTE5MzM2MzUzMzMzMjUw.Dqu7uw.kFGfe4WROriWR28tLkX4a9wdT1U
-owner=485380710656507914
-prefix=8
-game=Type 8play
+token=NTIwMjc0ODIyMjk1NDUzNzA2.Durfrw.ufRIMhL4spwO4-9AQ5tzsFpm_t8
+owner=506159394267070476
+prefix=w
+game=Type wplay
 stayinchannel=true
 songinstatus=true
